@@ -13,7 +13,7 @@ If you want to use a different type of Arduino or a different class you'll obvio
       <td align="center"><a href="https://github.com/Thoooms"><img src="https://avatars.githubusercontent.com/u/106381511?v=4" width="100px;" alt="Thoooms"/><br />
       <b>Thoooms</b></a><br/ ><sub><a href="https://github.com/aIDserse/DinamoDB/blob/main/ProgettoDinamoDB/Arduino%20Sketch/Sketch.ino" title="Arduino skecth and communication">Arduino skecth and communication</a></sub></td> 
       <td align="center"><a href="https://github.com/aIDserse"><img src="https://avatars.githubusercontent.com/u/65368677?v=4" width="100px;" alt="aIDserse"/><br />
-      <b>aIDserse</b></a><br/ ><sub><a href="https://github.com/aIDserse/DinamoDB" title="DynamoDB connection and C# side">DynamoDB connection and C# side</a></sub></td>
+      <b>aIDserse</b></a><br/ ><sub><a href="https://github.com/aIDserse/DinamoDB" title="DynamoDB handling and C# side">DynamoDB handling and C# side</a></sub></td>
     </tr>
   </tbody>
 </table>
