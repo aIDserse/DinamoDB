@@ -9,7 +9,8 @@ If you want to use a different type of Arduino or a different class you'll obvio
   <tbody>
     <tr>
     <td align="center"><a href="https://github.com/Thoooms"><img src="https://avatars.githubusercontent.com/u/106381511?v=4" width="100px;" alt="Thoooms"/><br /><sub><b>Thoooms</b></sub></a></td>
-    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajakebolam" title="Reviewed Pull Requests">👀</a> <a href="#question-jakebolam" title="Answering Questions">💬</a></td>
+     <td align="center"><a href="https://github.com/Thoooms"><img src="https://avatars.githubusercontent.com/u/106381511?v=4" width="100px;" alt="Thoooms"/><br /><sub><b>Daxxlol</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Daxxlol"><img src="https://avatars.githubusercontent.com/u/95642520?v=4" width="100px;" alt="Daxxlol"/><br /><sub> 
     </tr>
   </tbody>
 </table>
