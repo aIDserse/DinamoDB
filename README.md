@@ -9,9 +9,11 @@ If you want to use a different type of Arduino or a different class you'll obvio
   <tbody>
     <tr>            
       <td align="center"><a href="https://github.com/Daxxlol"><img src="https://avatars.githubusercontent.com/u/95642520?v=4" width="100px;" alt="Daxxlol"/><br /><sub>
-      <b>Daxxlol</b><sub></a></td>
+      <b>Daxxlol</b><sub></a></td><a href="https://github.com/aIDserse/DinamoDB/blob/main/ProgettoDinamoDB/Arduino%20Sketch/Sketch.ino" title="Arduino">Arduino sketch and communication</a></td>
       <td align="center"><a href="https://github.com/Thoooms"><img src="https://avatars.githubusercontent.com/u/106381511?v=4" width="100px;" alt="Thoooms"/><br /><sub>
-      <b>Thoooms</b><sub></a></td>
+      <b>Thoooms</b><sub></a></td><a href="https://github.com/aIDserse/DinamoDB/blob/main/Report/DinamoDB%20report.pdf" title="Report">Report Writing and code commenting</a></td>
+      <td align="center"><a href="https://github.com/aIDserse"><img src="https://avatars.githubusercontent.com/u/95642520?v=4" width="100px;" alt="aIDserse"/><br /><sub>
+      <b>Daxxlol</b><sub></a></td><a href="https://github.com/aIDserse/DinamoDB" title="DynamoDB connection and C# side">DynamoDB connection and C# side</a></td>
     </tr>
   </tbody>
 </table>
