@@ -8,10 +8,10 @@ If you want to use a different type of Arduino or a different class you'll obvio
 <table>
   <tbody>
     <tr>            
-      <b>Daxxlol</b><sub></a></td>
       <td align="center"><a href="https://github.com/Daxxlol"><img src="https://avatars.githubusercontent.com/u/95642520?v=4" width="100px;" alt="Daxxlol"/><br /><sub>
-      <b>Thoooms</b><sub></a></td>
+      <b>Daxxlol</b><sub></a></td>
       <td align="center"><a href="https://github.com/Thoooms"><img src="https://avatars.githubusercontent.com/u/106381511?v=4" width="100px;" alt="Thoooms"/><br /><sub>
+      <b>Thoooms</b><sub></a></td>
     </tr>
   </tbody>
 </table>
